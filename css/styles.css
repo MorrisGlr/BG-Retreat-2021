@@ -433,7 +433,7 @@ h1 {
     border-color: #2ECC71
   }
   
-/* Speaker Cards */
+/* Speaker Cards crop*/
 .speak-img-sq {
     object-fit: cover;
     width:263px;
@@ -454,4 +454,9 @@ h1 {
 /* Single speaker card in a row */
 .single-card-speaker-row {
     padding: 3% 69% 3% 0%;
+}
+
+/* Two speaker cards in a row */
+.two-card-speaker-row {
+    padding: 3% 35% 3% 0%;
 }
